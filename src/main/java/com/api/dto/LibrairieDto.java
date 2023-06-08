@@ -1,6 +1,6 @@
 package com.api.dto;
 
-public class LibrairieDto {
+public class LibrairieDto extends ResponseDto {
 	private int Id;
 	private String nom;
 	private String slogan;
